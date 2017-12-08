@@ -8,3 +8,5 @@ Uses the Jumbotron template as base for site. Utilizes Google's Firebase to add 
 ## HW5 - Test Cases
 
 The "EC601 - Test Cases for HW2.xlsx" file contains a list of test cases and results.
+
+**AWS Device Farm**: Information can be found in the 'AWS Device Farm' folder. Used HarishSChandra's [Android firebase chat app](https://github.com/harishschandra/HW_2.example.android.app) for testing.
